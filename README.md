@@ -41,6 +41,5 @@ const user = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz98&show_icons=true&locale=en&layout=compact" alt="gabrielluiz98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielluiz98&show_icons=true&locale=en" alt="gabrielluiz98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielluiz98&" alt="gabrielluiz98" /></p>
+
