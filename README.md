@@ -10,7 +10,7 @@ const user = {
   occupation: "Front-end developer",
   nationality: "Brazilian",
   email: "gabrielluiz3011@gmail.com",
-  technologies: ["Javascript", "HTML", "CSS", "Jquery", "React", "Styled-Components"],
+  technologies: ["Javascript", "HTML", "CSS", "Jquery", "React", "Styled-Components", "Git"],
   ide: "vscode",
   address: {
     city: "Embu das Artes",
