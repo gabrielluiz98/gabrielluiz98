@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel!
-<img src="https://imgur.com/EVSdPd4">
+<blockquote class="imgur-embed-pub" lang="en" data-id="EVSdPd4"><a href="https://imgur.com/EVSdPd4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 ### About me
