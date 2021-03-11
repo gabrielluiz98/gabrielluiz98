@@ -1,6 +1,4 @@
 # Hi, I'm Gabriel!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielluiz98)](https://github.com/gabrielluiz98)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)](https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)
 
 ### About me
 I'm a front-end developer and i work for <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
@@ -11,6 +9,7 @@ const user = {
   age: 22,
   occupation: "Front-end developer",
   nationality: "Brazilian",
+  email: "gabrielluiz3011@gmail.com",
   technologies: ["Javascript", "HTML", "CSS", "Jquery", "React", "Styled-Components"],
   ide: "vscode",
   address: {
@@ -19,10 +18,6 @@ const user = {
   }
 };
 ```
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielluiz98&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielluiz98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielluiz98" alt="gabrielluiz98" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
