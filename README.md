@@ -47,10 +47,8 @@ const user = {
 
 <h3 align="left">Github Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz98&show_icons=true&locale=en&layout=compact" alt="gabrielluiz98" /></p>
-
-<p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gabrielluiz98&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
 
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz98&show_icons=true&locale=en&layout=compact" alt="gabrielluiz98" /></p>
+
