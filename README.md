@@ -1,6 +1,4 @@
 # Hi, I'm Gabriel!
-<blockquote class="imgur-embed-pub" lang="en" data-id="EVSdPd4"><a href="https://imgur.com/EVSdPd4">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 
 ### About me
 I'm a front-end developer and i work for <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
