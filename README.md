@@ -5,7 +5,7 @@
 [![Gmail Badge](ttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)](https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)
 
 ### About me
-I'm a front-end developer and i work for <a href="magazineluiza.com.br">Magazine Luiza</a>!
+I'm a front-end developer and i work for <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
 
 ```javascript
 const user = {
