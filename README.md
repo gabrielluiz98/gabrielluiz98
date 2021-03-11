@@ -4,3 +4,10 @@
 
 ### About me
 I'm a front-end developer and i work for Magazine Luiza!
+
+```
+var user = {
+  name: "Gabriel Luiz",
+  age: 22,
+};
+```
