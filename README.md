@@ -1,5 +1,5 @@
 # Hi, I'm Gabriel!
-<img src="https://www.canva.com/design/DAEYdQuicwQ/-KBD7G74LR7sg_5jQAe3cw/view?utm_content=DAEYdQuicwQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">
+<img src="https://www.canva.com/design/DAEYdQuicwQ/-KBD7G74LR7sg_5jQAe3cw/view?utm_content=DAEYdQuicwQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 
 ### About me
