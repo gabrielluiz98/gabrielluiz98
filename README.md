@@ -1,4 +1,6 @@
 # Hi, I'm Gabriel!
+![banner logo](bannerlink.png)
+
 
 ### About me
 I'm a front-end developer and i work at <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
