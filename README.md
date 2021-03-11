@@ -25,8 +25,9 @@ const user = {
 
 
 <h3 align="left">Workspace:</h3>
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)] 
-[![AMD](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]
+
+(https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)] 
+(https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]
 
 
 <h3 align="left">Languages and Tools:</h3>
