@@ -6,8 +6,9 @@
 I'm a front-end developer and i work for Magazine Luiza!
 
 ```javascript
-var user = {
+const user = {
   name: "Gabriel Luiz",
   age: 22,
+  technologies: [Javascript, HTML, CSS, Jquery, React, Python],
 };
 ```
