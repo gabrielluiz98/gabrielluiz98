@@ -11,10 +11,11 @@ const user = {
   age: 22,
   occupation: "Front-end developer",
   nationality: "Brazilian",
-  technologies: [Javascript, HTML, CSS, Jquery, React, Styled-Components],
+  technologies: ["Javascript", "HTML", "CSS", "Jquery", "React", "Styled-Components"],
   ide: "vscode"
   address: {
     city: "Embu das Artes",
+    state: "São Paulo"
   }
 };
 ```
