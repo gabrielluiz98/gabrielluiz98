@@ -18,10 +18,15 @@ const user = {
   }
 };
 ```
-
+<h3 align="left">Connect with me:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-gabrielluiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)](https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielluiz3011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielluiz3011@gmail.com)](mailto:gabrielluiz3011@gmail.com)
+
+
+<h3 align="left">Workspace:</h3>
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)] 
+[![AMD](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)]
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +43,7 @@ const user = {
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielluiz98&show_icons=true&locale=en&layout=compact" alt="gabrielluiz98" /></p>
 
