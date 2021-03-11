@@ -24,10 +24,14 @@ const user = {
 [![Gmail Badge](https://img.shields.io/badge/-gabrielluiz3011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielluiz3011@gmail.com)](mailto:gabrielluiz3011@gmail.com)
 
 
-<h3 align="left">Workspace:</h3>
+<h3 align="left">My Workspace:</h3>
 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![image](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![image](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![image](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
