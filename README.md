@@ -21,7 +21,9 @@ const user = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)
+[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:gabrielluiz3011@gmail.com)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
