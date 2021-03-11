@@ -9,6 +9,12 @@ I'm a front-end developer and i work for <a href="https://www.magazineluiza.com.
 const user = {
   name: "Gabriel Luiz",
   age: 22,
-  technologies: [Javascript, HTML, CSS, Jquery, React, Python],
+  occupation: "Front-end developer",
+  nationality: "Brazilian",
+  technologies: [Javascript, HTML, CSS, Jquery, React, Styled-Components],
+  ide: "vscode"
+  address: {
+    city: "Embu das Artes",
+  }
 };
 ```
