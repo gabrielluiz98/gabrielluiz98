@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel!
 
 ### About me
-I'm a front-end developer and i work for <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
+I'm a front-end developer and i work at <a href="https://www.magazineluiza.com.br">Magazine Luiza</a>!
 
 ```javascript
 const user = {
