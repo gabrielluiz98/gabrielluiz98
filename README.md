@@ -20,7 +20,7 @@ const user = {
 ```
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![Linkedin Badge](https://img.shields.io/badge/-gabrielluiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)](https://www.linkedin.com/in/gabriel-luiz-da-silva-083703139/)
 [![Gmail Badge](https://img.shields.io/badge/-gabrielluiz3011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielluiz3011@gmail.com)](mailto:gabrielluiz3011@gmail.com)
 
 
